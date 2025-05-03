@@ -1,0 +1,122 @@
+Instance: Talk of the Town
+Explained Label: My Romance (index 47324)
+Tokens and Importance:
+talk           : 0.0281
+of             : -0.0203
+the            : -0.0173
+town           : -0.0225
+Intercept: 0.4959
+---
+
+Cosine Similarity between original and perturbed explanations: -0.0631------------------------------------------------------------------------------------------------
+Instance: Bausch & Lomb Pre-Moistened Lens Cleaning Tissues, Box Of 100 - Packaging May Vary
+Explained Label: Microfiber Lens Cleaning Cloth By Apex Healthcare Products (index 111344)
+Tokens and Importance:
+ba             : -0.0131
+##us           : 0.0015
+##ch           : 0.0048
+&              : 0.0072
+lo             : -0.0002
+##mb           : -0.0036
+pre            : 0.0061
+-              : -0.0011
+moist          : -0.0050
+##ened         : 0.0068
+lens           : 0.0041
+cleaning       : -0.0015
+tissues        : 0.0015
+,              : 0.0049
+box            : -0.0033
+of             : 0.0029
+100            : -0.0024
+-              : -0.0010
+packaging      : -0.0043
+may            : -0.0058
+vary           : -0.0040
+Intercept: 0.5874
+---
+
+Cosine Similarity between original and perturbed explanations: 0.9207------------------------------------------------------------------------------------------------
+Instance: Dance off the Inches: Cardio Striptease (2010)
+Explained Label: The Exotic Dance Workout (2007) (index 113913)
+Tokens and Importance:
+dance          : 0.0192
+off            : 0.0013
+the            : 0.0101
+inches         : -0.0017
+:              : -0.0073
+card           : -0.0133
+##io           : -0.0121
+strip          : -0.0082
+##tea          : 0.0021
+##se           : 0.0043
+(              : 0.0079
+2010           : -0.0080
+)              : 0.0078
+Intercept: 0.5277
+---
+
+Cosine Similarity between original and perturbed explanations: 0.8644
+------------------------------------------------------------------------------------------------
+Instance: Sustainable Energy: Choosing Among Options
+Explained Label: Sustainable Energy: Choosing Among Options (index 3640)
+Tokens and Importance:
+sustainable    : -0.0346
+energy         : -0.0129
+:              : 0.0075
+choosing       : -0.0133
+among          : -0.0135
+options        : -0.0174
+Intercept: 0.5115
+---
+
+Cosine Similarity between original and perturbed explanations: 0.8338
+------------------------------------------------------------------------------------------------
+Instance: Extra Extra Wide Womens Slipper
+Explained Label: ACORN Women's Spa Wrap Slipper (index 111281)
+Tokens and Importance:
+extra          : 0.0048
+extra          : 0.0041
+wide           : -0.0151
+women          : -0.0047
+##s            : -0.0193
+slip           : 0.0149
+##per          : 0.0302
+Intercept: 0.5018
+---
+
+Cosine Similarity between original and perturbed explanations: 0.9425
+------------------------------------------------------------------------------------------------
+Instance: Amazon.com: Playtex Women's Cross Your Heart Foam Lined Heart Jacquard Soft Cup Bra: Clothing
+Explained Label: Amazon.com: Playtex Women's Cross Your Heart Foam Lined Heart Jacquard Soft Cup Bra: Clothing (index 89491)
+Tokens and Importance:
+amazon         : 0.0095
+.              : 0.0024
+com            : 0.0031
+:              : 0.0042
+play           : -0.0040
+##te           : -0.0022
+##x            : 0.0016
+women          : 0.0070
+'              : 0.0014
+s              : 0.0004
+cross          : 0.0039
+your           : -0.0091
+heart          : 0.0036
+foam           : 0.0021
+lined          : 0.0031
+heart          : 0.0035
+ja             : 0.0048
+##c            : 0.0023
+##qua          : 0.0031
+##rd           : 0.0041
+soft           : -0.0026
+cup            : -0.0010
+bra            : 0.0045
+:              : 0.0053
+clothing       : -0.0012
+Intercept: 0.5331
+---
+
+Cosine Similarity between original and perturbed explanations: 0.9306
+------------------------------------------------------------------------------------------------
