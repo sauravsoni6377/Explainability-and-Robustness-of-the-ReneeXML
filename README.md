@@ -2,7 +2,10 @@
 
 Official PyTorch implementation for the paper: "Renee: End-to-end training of extreme classification models" accepted at MLSys 2023.
 
-👉 You can find the camera-ready paper [here](Renee-Camera-Ready.pdf).
+👉 You can find the (original)camera-ready paper [here](Renee-Camera-Ready.pdf).
+
+👉 You can find our project report [here](DAI_project_report.pdf)
+
 
 ## DOI
 [![DOI](https://zenodo.org/badge/605004299.svg)](https://zenodo.org/badge/latestdoi/605004299)
